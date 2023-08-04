@@ -1,0 +1,18 @@
+/* Code for practising https://internetingishard.netlify.app/html-and-css/flexbox/index.html from https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox#how-to-create-flex-item-knowledge-check */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  
+.menu-container {
+    color: #fff;
+    background-color: #5995DA;  /* Blue */
+    padding: 20px 0;
+}
+  
+.menu {
+    border: 1px solid #fff;  /* For debugging */
+    width: 900px;
+}
